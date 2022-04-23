@@ -9,6 +9,7 @@ OdysseyClient is a CLI application. The project was built out of pure curiosity,
 
 ## Features
 The standard features include:
+1. Multithreading.
 1. Sending messages.
 1. Engage in a group chat.
 
