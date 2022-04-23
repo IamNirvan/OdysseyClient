@@ -1,7 +1,7 @@
-# Odyssey Client - Chat Application (client side)
+# OdysseyClient - Chat Application (client side)
 
 ## Introduction
-OdysseyClient is a CLI application. The project was built out of pure curiosity, and also because it was a chance for me to familiarize myself with sockets in Java.
+OdysseyClient is a CLI application. The project was built out of pure curiosity, and also because it was a chance for me to familiarize myself with sockets in Java. This program enables the end user to send messages to other clients that are connected to the same server(OdysseyServer).
 
 **Version:** 1.2.0<br>
 **Implemented language:** Java.<br>
